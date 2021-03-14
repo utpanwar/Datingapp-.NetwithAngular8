@@ -32,7 +32,7 @@ namespace API
             // a specific connection to a user
             services.AddDbContext<DataContext>(options =>
             {
-                options.UseSqlite("Connection String")
+                options.UseSqlite("Connection String");
             });
 
 
