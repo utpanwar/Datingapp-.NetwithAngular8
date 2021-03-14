@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj": {}
+    "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj": {
+    "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
+        "projectUniqueName": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
+        "projectPath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\api\\API.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\obj\\",
+        "outputPath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

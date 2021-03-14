@@ -59,9 +59,19 @@ namespace API
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
+        //     app.UseEndpoints(endpoints =>
+        //     {
+        //         //  endpoints.MapControllers(); //this is the implement by web api 
+        // // and this mplement by me
+        //         endpoints.MapControllerRoute(
+        //              name: "default",
+        //             pattern: "{controller=Users}/{action=GetUsers}");
+        //     });
+         app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=WeatherForecast}/{action=Get}");
             });
         }
     }

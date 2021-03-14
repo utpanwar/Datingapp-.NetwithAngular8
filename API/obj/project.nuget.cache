@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1icy1oErA9By9LCiVi7ZoVOkVdncJZdRgJe0WvFhLhr++949zkVh24GYZJ8YBJ3ko8Hys/y6dk0NhZPiGrFZEQ==",
+  "dgSpecHash": "B1NcxoMSAy89vInkvHG9cY+BCZl5Oegev91CmSh0mUsVa2a4H8kB+UR6+B4zA/ZGh6BqLxXoxQNLWOddgGJNVg==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
+  "projectFilePath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
