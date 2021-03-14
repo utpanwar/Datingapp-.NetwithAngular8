@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj": {}
+    "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj": {}
   },
   "projects": {
-    "e:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj": {
+    "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
+        "projectUniqueName": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "e:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
+        "projectPath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\API.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "e:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\obj\\",
+        "outputPath": "E:\\Projects\\Angular with .Net core Proj\\Dating-app\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +47,16 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
